@@ -1,3 +1,3 @@
 <?php
-header("location:/www/oop_crud/pages/read.php");
+header("location:pages/read.php");
 ?>
